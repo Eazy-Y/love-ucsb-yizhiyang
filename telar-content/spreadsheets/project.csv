@@ -1,6 +1,9 @@
-order,story_id,title,subtitle,byline,private
-orden,id_historia,titulo,subtitulo,firma,privada
-#,# Must match the tab name exactly. Use lowercase letters and hyphens (e.g. allegorical-woman),Story title,Optional subtitle,Optional attribution (supports markdown),"If ""yes"", then users will need the key you set in _config.yml to access this story."
-#,# Debe coincidir con el nombre de la pestaña exactamente. Usa letras minúsculas y guiones (p. ej. mujer-alegorica),Título de la historia,Subtítulo opcional,Atribución opcional (admite markdown),"Si ""sí"", los usuarios deberán utilizar la clave que fijes en _config.yml"
-1,blank_template,replace me with your title,,,FALSE
-2,plantilla_en_blanco,reemplázame con tu título,,,FALSE
+order,story_id,title,subtitle,byline,private,show_sections
+orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
+0,introduction-xw8s,Introduction,,,,
+1,figure-1-latenight-vo87,"Figure 1: A couple experiencing romantic connection at Campus Point, UCSB.",,,,
+2,figure-2-collective-fw4j,Figure 2: Students cheering together during a basketball game at the Thunderdome.,,,,
+3,figure-3-playful-j399,Figure 3: Fraternity brothers participating in a playful pie prank fundraiser on a UCSB ambor road.,,,,
+4,harmonic-healing-by-nufh,Figure 4: A group of friends standing on a seaside platform to listen to music at night under the stars.,,,,
+5,conclusion-ya39,Conclusion,,,,
+6,workcite-ym2c,Work Cited,,,,

@@ -1,3 +1,0 @@
-
-Welcome to Love and Belonging at UCSB. This digital exhibition uses personal field observations to show how undergraduate students build community support and connection across our campus.
-Through four distinct visual stories, this project explores how love manifests in daily student life—from romantic relationships and peer friendships to collective campus rituals. By analyzing these moments through the academic frameworks of bell hooks, Erving Goffman, Robert Sternberg, and Arthur C. Brooks, we demonstrate how shared experiences and environments help students reduce academic stress, find comfort, and build true belonging as Gauchos.
