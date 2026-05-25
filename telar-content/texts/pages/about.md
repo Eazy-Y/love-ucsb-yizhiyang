@@ -4,7 +4,8 @@ title: "About"
 
 # About Telar
 
-Telar (Spanish for "loom") is a static site generator built on Jekyll for digital storytelling and publishing small digital collections. It weaves IIIF images, video, audio, narrative text, and contextual layers into interactive visual exhibitions, with a card-stacking architecture, fluid scroll navigation, deep linking, and shareable URLs. It follows minimal computing principles: plain text authoring, static generation, and free hosting on GitHub Pages.
+Telar (Spanish for "loom") is a static site generator built on Jekyll for digital storytelling and publishing small digital collections. It weaves IIIF images, video, audio, narrative text, and contextual layers into interactive visual exhibitions, with a card-stacking architecture, fluid scroll navigation, 
+linking, and shareable URLs. It follows minimal computing principles: plain text authoring, static generation, and free hosting on GitHub Pages.
 
 <div class="alert alert-info" role="alert">
 <strong>Customize this page</strong><br>
