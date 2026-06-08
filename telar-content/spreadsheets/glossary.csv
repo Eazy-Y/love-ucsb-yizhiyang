@@ -1,11 +1,12 @@
-term_id,title,definition
-telar,"Environment","The complex of physical, chemical, and biotic factors that act upon an organism or an ecological community and ultimately determine its form and survival."
-interaction,"Interaction","Mutual or reciprocal action or influence; the process by which things or people act upon each other."
-experience,"Experience","The practical wisdom, knowledge, or techne gained from what one has observed, encountered, or undergone in the course of lived reality."
-relationship,"Relationship","The state of being mutually connected or related; the specific mode in which two or more people or things are connected and behave toward each other."
-term,"Belonging "," A secure feeling of acceptance, identification, and emotional attachment to a specific social collective, group, or institutional place."
-support,"Support","The act of bearing the weight of, sustaining, or providing psychological, emotional, or practical assistance to maintain the well-being of another."
-untitled-term,"Context","The interrelated conditions, background, or setting in which something exists or occurs, which essentializes the meaning of an event or action."
-untitled,"Commitment","An agreement, pledge, or deliberate obligation to bind oneself to a certain course of action, person, or systemic practice over time."
-844adfaf-a5a4-4fd1-b309-a22052de7a8d,"Intimacy","he state of having a very close personal, emotional, or private relationship with someone, characterized by psychological warmth and mutual vulnerability."
-61274141-095a-4a2c-88cc-2f0a2a245d12,"Passion","An intense, driving, or overmastering feeling, conviction, or emotional investment directed toward a person, cause, or collective pursuit."
+term_id,title,definition,related_terms
+id_término,titulo,definición,términos_relacionados
+telar,Environment,"The complex of physical, chemical, and biotic factors that act upon an organism or an ecological community and ultimately determine its form and survival.",
+interaction,Interaction,Mutual or reciprocal action or influence; the process by which things or people act upon each other.,
+experience,Experience,"The practical wisdom, knowledge, or techne gained from what one has observed, encountered, or undergone in the course of lived reality.",
+relationship,Relationship,The state of being mutually connected or related; the specific mode in which two or more people or things are connected and behave toward each other.,
+term,"Belonging "," A secure feeling of acceptance, identification, and emotional attachment to a specific social collective, group, or institutional place.",
+support,Support,"The act of bearing the weight of, sustaining, or providing psychological, emotional, or practical assistance to maintain the well-being of another.",
+untitled-term,Context,"The interrelated conditions, background, or setting in which something exists or occurs, which essentializes the meaning of an event or action.",
+untitled,Commitment,"An agreement, pledge, or deliberate obligation to bind oneself to a certain course of action, person, or systemic practice over time.",
+844adfaf-a5a4-4fd1-b309-a22052de7a8d,Intimacy,"he state of having a very close personal, emotional, or private relationship with someone, characterized by psychological warmth and mutual vulnerability.",
+61274141-095a-4a2c-88cc-2f0a2a245d12,Passion,"An intense, driving, or overmastering feeling, conviction, or emotional investment directed toward a person, cause, or collective pursuit.",

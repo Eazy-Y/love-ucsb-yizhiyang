@@ -8,7 +8,7 @@ url: "https://eazy-y.github.io"
 baseurl: "/love-ucsb-yizhiyang"
 author: "Yizhi Yang"
 email: "yizhiyang@ucsb.edu"
-telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "trama"
 logo: ""
 telar_language: en
 collection_mode: true
